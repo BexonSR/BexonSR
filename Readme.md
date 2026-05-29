@@ -1,3 +1,18 @@
-Hey..! </br>
-Im Bexon_SR </br>
-<img  src="https://images.pexels.com/photos/1547813/pexels-photo-1547813.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" height="50%" width="auto" style="border-radius:10">
+<h1 align="center">Hi 👋, I'm Seni</h1>
+
+<p align="center">
+  Cybersecurity Student | Web Developer | Linux User | 
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BexonSR&show_icons=true" />
+</p>
+
+<details>
+<summary>About Me</summary>
+
+- Cybersecurity student
+- Linux enthusiast
+- Web developer
+
+</details>
