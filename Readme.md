@@ -1,3 +1,4 @@
+#This whole radme file created by ai. vibe cording hits hard 
 <p align="center">
   <img src="banner.png" alt="BexonSR Banner" width="100%" />
 </p>
