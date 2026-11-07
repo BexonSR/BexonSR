@@ -56,6 +56,6 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BexonSR&show_icons=true&bg_color=0d0e15&title_color=a855f7&text_color=cbd5e1&icon_color=06b6d4&rank_color=06b6d4&hide_border=true" alt="Seni's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BexonSR&theme=black-ice&background=0d0e15&ring=a855f7&fire=06b6d4&currStreakNum=cbd5e1&currStreakLabel=a855f7&sideNums=cbd5e1&sideLabels=cbd5e1&dates=cbd5e1&hide_border=true" alt="Seni's Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BexonSR&show_icons=true&bg_color=0d0e15&title_color=a855f7&text_color=cbd5e1&icon_color=06b6d4&rank_color=06b6d4&hide_border=true" alt=" GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BexonSR&theme=black-ice&background=0d0e15&ring=a855f7&fire=06b6d4&currStreakNum=cbd5e1&currStreakLabel=a855f7&sideNums=cbd5e1&sideLabels=cbd5e1&dates=cbd5e1&hide_border=true" alt="Streak Stats" />
 </p>
